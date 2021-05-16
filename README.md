@@ -21,9 +21,14 @@ Software:
 Blynk 
 Arduino Ide
 
+
 Woeking Block Digram :
+
 ![image](https://user-images.githubusercontent.com/63664493/118403613-dcbd4400-b68c-11eb-802d-1e3a908c859a.png)
+
+
 Code process diagram:
+
 ![image](https://user-images.githubusercontent.com/63664493/118403638-fd859980-b68c-11eb-9ac2-12a47b97719c.png)
 
 
